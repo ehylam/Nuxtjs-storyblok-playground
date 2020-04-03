@@ -15,6 +15,7 @@
     "storyblok-nuxt": "^1.2.0"
   },
   "devDependencies": {
+    "locomotive-scroll": "^3.3.11",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2"
   }
