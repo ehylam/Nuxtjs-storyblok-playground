@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+body {
+	margin: 0;
+	height: 100vh;
+	font-family: 'Spartan', sans-serif;
+}
+
+.container {
+	margin: 0 auto;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: row-reverse;
+}
+
+.image_block__wrapper {
+	padding-bottom: 56.6%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
